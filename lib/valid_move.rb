@@ -14,4 +14,4 @@ def valid_move? (board, index)
   elsif position_taken? (board, index) == true
     return false
   end
-end 
+end
